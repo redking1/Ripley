@@ -61,10 +61,7 @@ input[type=text]:focus, input[type=password]:focus {
   cursor: pointer;
   width: 100%;
   opacity: 0.9;
-}
-.btn:hover {
-  opacity: 1;
-}
+
 </style>
   <head>
     <link rel="stylesheet" type="text/css" href="/static/style.css">
